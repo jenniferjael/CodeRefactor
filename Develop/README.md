@@ -4,13 +4,8 @@
 Code Refractor has the intention of improving an existing code with the use of semantic elements and a logical more concised structure. 
 
 # HTML 
-the existing code lacked of real meaning tags and had more non-semantic elements like <div> and <span>. this code was improved by adding the following elements:
-<header>
-<nav>
-<section>
-<footer>
-
-It was also added an alt tag to convey the purpose of the image and enhace the web experience.
+The existing code lacked of real meaning tags and used non-semantic elements like "div" and "span". This code improved its accesibility by adding semantic elements like; Header,nav,sections,and footer.
+Alt tag was added to the images to convey the purpose of the images and enhace the web experience.
 
 # CSS
 
